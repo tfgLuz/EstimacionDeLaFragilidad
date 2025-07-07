@@ -1,0 +1,4 @@
+id_usuario,user_id_polar,fecha_inicio,fecha_fin,fecha_nacimiento,sexo,peso_kg,altura_cm
+usuario_1,62739880,2025-04-24,2025-04-26,1956-12-26,M,58,158
+usuario_2,62739880,2025-04-27,2025-04-29,1950-02-26,H,66,166
+usuario_3,62739880,2025-05-01,2025-05-03,1963-09-23,M,57,161
