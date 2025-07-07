@@ -66,7 +66,6 @@ plt.show()
 
 
 # --- 8. Analizar Importancia de Características ---
-# (Añadir esto al final del script anterior)
 
 print("\nImportancia de las características según el modelo XGBoost:")
 feature_importances = pd.Series(model.feature_importances_, index=X.columns).sort_values(ascending=False)
