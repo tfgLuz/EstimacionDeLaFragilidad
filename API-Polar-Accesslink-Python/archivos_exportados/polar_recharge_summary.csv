@@ -1,0 +1,5 @@
+date,polar_user,heart_rate_avg,heart_rate_variability_avg,nightly_recharge_status,ans_charge,ans_charge_status,beat_to_beat_avg,breathing_rate_avg
+2025-06-06,62739880,70,49,4,1.6,3,850,15.7
+2025-06-07,62739880,66,80,6,9.5,5,905,16.0
+2025-06-10,62739880,63,85,5,10.0,5,939,16.0
+2025-06-14,62739880,70,59,4,0.0,3,853,16.4
